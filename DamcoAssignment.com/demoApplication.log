@@ -1,0 +1,358 @@
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Close the Browser & Tabs
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Close the Browser & Tabs
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Close the Browser & Tabs
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for mailCompose
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the mailCompose
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailSubject
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the Subject of the Mail
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailBody
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Through send keys , send the data to mailBody
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailTo
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Through send keys , send the data to To
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailSent
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the mailSent
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Close the Browser & Tabs
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for mailCompose
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the mailCompose
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailSubject
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the Subject of the Mail
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailBody
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Through send keys , send the data to mailBody
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailTo
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Through send keys , send the data to To
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailSent
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the mailSent
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Close the Browser & Tabs
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for mailCompose
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the mailCompose
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailSubject
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the Subject of the Mail
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailBody
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Through send keys , send the data to mailBody
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailTo
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Through send keys , send the data to To
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for mailSent
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the mailSent
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for mailInbox
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the mailInbox
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for email
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Taking out the text from the email 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Assertion applied to verify the email subject 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the email
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for bodyInbox
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for firstpoint
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Taking out the text from the firstPoint 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for secondpoint
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Taking out the text from the secondPoint 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for thirdpoint
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Taking out the text from the thirdPoint 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Assertion applied to verify the body text for 1st line 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Assertion applied to verify the body text for 2nd line 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Assertion applied to verify the body text for 3rd line 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Close the Browser & Tabs
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Getting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the LoginButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait for 10 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using send Keys data passed to the input field
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Using Explicit wait , Intializing the xpath for password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Enter the password
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Intializing the xpath for nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.EmailTask  - Click on the nextButtonPwd
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Using Explicit wait for 20 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Using Explicit wait for 20 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the FromField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the ToField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Using Explicit wait for 20 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the FromField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the ToField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Using Explicit wait for 20 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the FromField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the ToField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Through Action Class keys , Selected the option by putting down key from keyboard
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for SearchButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the SearchButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Using Explicit wait for 20 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the FromField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the ToField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Through Action Class keys , Selected the option by putting down key from keyboard
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for SearchButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the SearchButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Using Explicit wait for 20 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the FromField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the ToField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Through Action Class keys , Selected the option by putting down key from keyboard
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for SearchButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the SearchButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Properties File Path
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Setting the System Directory
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Initializating the Browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Maximizing the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Implicit Wait added for 10 seconds
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Open the URL in the browser 
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Using Explicit wait for 20 Seconds to show up the element in the browser
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the FromField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for FromField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToField
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Enter the ToField using sendkeys
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Through Action Class keys , Selected the option by putting down key from keyboard
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the ToFieldText
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the DatePickerDeparture
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Intializing the xpath for SearchButton
+[main] INFO  DamcoAssignment.DamcoAssignment.com.MMTTask  - Click on the SearchButton

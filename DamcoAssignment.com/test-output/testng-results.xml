@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17588" started-at="2023-05-29T04:15:08 IST" finished-at="2023-05-29T04:15:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17588" started-at="2023-05-29T04:15:08 IST" finished-at="2023-05-29T04:15:26 IST">
+      <class name="DamcoAssignment.DamcoAssignment.com.MMTTask">
+        <test-method status="PASS" signature="setUpl()[pri:0, instance:DamcoAssignment.DamcoAssignment.com.MMTTask@3aeaafa6]" name="setUpl" is-config="true" duration-ms="5731" started-at="2023-05-29T04:15:08 IST" finished-at="2023-05-29T04:15:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpl -->
+        <test-method status="PASS" signature="flightSearch()[pri:0, instance:DamcoAssignment.DamcoAssignment.com.MMTTask@3aeaafa6]" name="flightSearch" duration-ms="11820" started-at="2023-05-29T04:15:14 IST" finished-at="2023-05-29T04:15:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearch -->
+      </class> <!-- DamcoAssignment.DamcoAssignment.com.MMTTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
